@@ -1,7 +1,6 @@
 # Airlines-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
+### Dashboard Link : https://app.powerbi.com/links/33FZRmaHFa?ctid=e0793d39-0939-496d-b129-198edd916feb&pbi_source=linkShare
 ## Problem Statement
 
 This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
@@ -76,7 +75,7 @@ for creating new column following DAX expression was written;
         
 Snap of new calculated column ,
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![WhatsApp Image 2024-07-21 at 7 25 13 AM](https://github.com/user-attachments/assets/74cc7e71-7da9-4133-af98-f55cf101bb56)
 
         
 - Step 15 : New measure was created to find total count of customers.
